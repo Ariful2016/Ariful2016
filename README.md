@@ -1,41 +1,93 @@
-<h1 align="center">Hi 👋, I'm Md. Ariful Islam</h1>
-<h3 align="center">A passionate Android & IOS developer from Bangladesh</h3>
+# Hi there, I'm Md. Ariful Islam 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariful2016&label=Profile%20views&color=0e75b6&style=flat" alt="ariful2016" /> </p>
+## I'm a Software Engineer and Full Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful2016" alt="ariful2016" /></a> </p>
+* I'm a passionate learner who's always willing to learn and work across technologies and domains.
+* I love to explore new technologies and leverage them to solve real-life problems.
+* I'm Currently working as Anroid Engineer at [Shakti Foundation](https://www.shakti.org.bd).
+* My current focus is on building scalable and robust applications using the latest technologies.
 
-- 🔭 I’m currently working on [Shakti Foundation](https://www.shakti.org.bd)
+<p  align="center"><a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></a></p>
 
-- 🌱 I’m currently learning **.net, making api, advanced technology for android and IOS**
+<h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
 
-- 👯 I’m developing to **Shakti-ERP-App**
+## Tools and Technologies
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ariful2016](https://github.com/Ariful2016)
+Here are a few things I've picked up along my learning journey.
 
-- 📝 I regularly write articles on [https://github.com/Ariful2016](https://github.com/Ariful2016)
+### Programming Languages
 
-- 💬 Ask me about **Android, IOS, Flutter, API**
+<a href="#programming-languages"><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a><a href="#programming-languages"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a><a href="#programming-languages"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a> 
 
-- 📫 How to reach me **arifewucse2016@gmail.com**
+<a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/></a><a href="#programming-languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a> 
 
-- 📄 Know about my experiences [https://github.com/Ariful2016](https://github.com/Ariful2016)
+<a href="#programming-languages"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white"/></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arif-android-flutter-ios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif-android-flutter-ios" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arifewucse2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arifewucse2016" height="30" width="40" /></a>
-<a href="https://fb.com/arifewucse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arifewucse" height="30" width="40" /></a>
-<a href="https://medium.com/arifewucse2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="arifewucse2016" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arifewucse2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arifewucse2016" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arifewucse2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arifewucse2016" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Backend Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful2016&show_icons=true&locale=en&layout=compact" alt="ariful2016" /></p>
+<a href="#backend-technologies"><img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/></a> <a href="#backend-technologies"><img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a> <a href="#backend-technologies"><img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/></a> <a href="#backend-technologies"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariful2016&show_icons=true&locale=en" alt="ariful2016" /></p>
+<a href="#backend-technologies"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/></a> <a href="#backend-technologies"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/></a> <a href="#backend-technologies"><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white"/></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariful2016&" alt="ariful2016" /></p>
+
+### Frontend Technologies
+
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/></a>
+
+<a href="#frontend-technologies"><img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+
+### Mobile Technologies
+
+<a href="#mobile-technologies"><img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"/></a> <a href="#mobile-technologies"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
+
+### Database and Queues
+
+<a href="#database-and-queues"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/BigQuery-40AEF0.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
+
+<a href="#database-and-queues"><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/></a> <a href="#database-and-queues"><img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white"/></a>
+
+### Cloud Platforms
+
+<a href="#cloud-platforms"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/></a> <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/></a> <a href="#cloud-platforms"><img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white"/></a>
+
+<a href="#cloud-platforms"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/></a> <a href="#cloud-platforms"><img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white"/></a>
+
+### DevOps Tools
+
+<a href="#devops-tools"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>
+
+<a href="#devops-tools"><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=for-the-badge&logo=Travis-CI&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
+
+### Automation and Testing Tools
+
+<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white"/></a>
+
+<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/></a>
+
+### IDE and Editors
+
+<a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a> <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white"/></a> <a href="#ide-and-editors"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/></a>
+
+ ### Version Control
+
+<a href="#version-control"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/></a> <a href="#version-control"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href="#version-control"><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"/></a> <a href="#version-control"><img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white"/></a>
+
+### Project Management
+
+<a href="#project-management"><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/></a> <a href="#project-management"><img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/></a> <a href="#project-management"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/></a> <a href="#project-management"><img src="https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=Asana&logoColor=white"/></a>
+
+### Operating Systems
+
+<a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2095-008080.svg?style=for-the-badge&logo=Windows-95&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
+
+<a href="#operating-systems"><img src="https://img.shields.io/badge/Lubuntu-0068C8.svg?style=for-the-badge&logo=Lubuntu&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></a>
+
+## Some Stats
+
+<a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=arman-bd&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
+
+<h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
+
+<h3>HackerRank Badges: <a href="https://www.hackerrank.com/arif_app">hackerrank.com/arif_app</a></h3>
+<a href="https://www.hackerrank.com/arif_app"><a id="plx" href="#plx"><img src="https://i.imgur.com/EfpyZja.png" /></a></a>
