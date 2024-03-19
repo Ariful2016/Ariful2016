@@ -9,7 +9,8 @@
 
 <p  align="center"><a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></a></p>
 
-<h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="Md.Ariful Islam  (Resume).pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
+<h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="ariful2016.github.io
+/Md.Ariful Islam (Resume).pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
 
 ## Tools and Technologies
 
