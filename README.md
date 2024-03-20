@@ -87,7 +87,7 @@ Here are a few things I've picked up along my learning journey.
 
 <a href="https://github.com/ariful2016"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=ariful2016&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/ariful2016"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2016&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
 
-<h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
+<h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="https://ariful2016.github.io/resume_of_ariful_islam.pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
 
 <h3>HackerRank Badges: <a href="https://www.hackerrank.com/arif_app">hackerrank</a></h3>
 <a href="https://www.hackerrank.com/arif_app"><a id="plx" href="#plx"><img src="https://i.imgur.com/EfpyZja.png" /></a></a>
