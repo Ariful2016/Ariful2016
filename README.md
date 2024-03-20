@@ -79,9 +79,9 @@ Here are a few things I've picked up along my learning journey.
 
 ### Operating Systems
 
-<a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2095-008080.svg?style=for-the-badge&logo=Windows-95&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
+<a href="#operating-systems"><img src="https://img.shields.io/badge/mac%20os-000000.svg?style=for-the-badge&logo=macos&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/windows%2010-0078D6.svg?style=for-the-badge&logo=windows10&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white"/></a> 
 
-<a href="#operating-systems"><img src="https://img.shields.io/badge/Lubuntu-0068C8.svg?style=for-the-badge&logo=Lubuntu&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></a>
+<a href="#operating-systems"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/Lubuntu-0068C8.svg?style=for-the-badge&logo=Lubuntu&logoColor=white"/></a> <a href="#operating-systems"><img src="https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white"/></a> 
 
 ## Some Stats
 
