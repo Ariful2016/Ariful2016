@@ -90,4 +90,4 @@ Here are a few things I've picked up along my learning journey.
 <h3 align="center"><a href="https://Ariful2016.github.io/">Portfolio</a> | <a href="https://ariful2016.github.io/resume_of_ariful_islam.pdf">Resume</a> | <a href="https://linkedin.com/in/arif-android-flutter-ios">LinkedIn</a> | <a href="https://medium.com/@arifewucse2016">Blog</a></h3>
 
 <h3>HackerRank Badges: <a href="https://www.hackerrank.com/arif_app">hackerrank</a></h3>
-<a href="https://www.hackerrank.com/arif_app"><a id="plx" href="#plx"><img src="https://i.imgur.com/EfpyZja.png" /></a></a>
+<a href="https://www.hackerrank.com/arif_app"><a id="plx" href="#plx"><img src="https://imgur.com/tjKSnkh" /></a></a>
