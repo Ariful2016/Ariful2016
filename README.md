@@ -35,10 +35,10 @@ Here are a few things I've picked up along my learning journey.
 
 ### Frontend Technologies
 
-</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jetpack%20compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jetpack%20compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <a href="#frontend-technologies"><a href="#frontend-technologies"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 
 <!--
-</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a>
+</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a> 
 -->
 
 ### Mobile Technologies
