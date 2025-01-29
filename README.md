@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 
 <a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/></a><a href="#programming-languages"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/></a> 
 
-<a href="#programming-languages"  style="display: none;"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> <a href="#programming-languages" style="display: none;"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></a>
+<a href="#programming-languages"  style="visibility: hidden;"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> <a href="#programming-languages" style="display: none;"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/></a>
 
 
 ### Backend Technologies
