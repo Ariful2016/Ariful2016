@@ -35,11 +35,11 @@ Here are a few things I've picked up along my learning journey.
 
 ### Frontend Technologies
 
-</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jetpack%20compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> 
+</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jetpack%20compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 
-<a href="#frontend-technologies"><img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
-
-
+<!--
+</a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a> <a href="#frontend-technologies"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a>
+-->
 
 ### Mobile Technologies
 
@@ -59,11 +59,13 @@ Here are a few things I've picked up along my learning journey.
 
 <a href="#devops-tools"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>
 
+<!--
 <a href="#devops-tools"><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=for-the-badge&logo=Travis-CI&logoColor=white"/></a> <a href="#devops-tools"><img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
+-->
 
 ### Automation and Testing Tools
 
-<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/appium-EE376D.svg?style=for-the-badge&logo=appium&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"/></a> <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+<a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/appium-EE376D.svg?style=for-the-badge&logo=appium&logoColor=white"/></a>  <a href="#automation-and-testing-tools"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 
 ### IDE and Editors
 
